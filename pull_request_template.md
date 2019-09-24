@@ -1,5 +1,5 @@
 ## Description
-Please describe your changes in detail. Answer the questions: "what?" and "why?"
+Please describe your changes in detail. Answer the questions: "what?" and "why?" Add authors to "Assignees" list.
 
 ## How Has This Been Tested?
 Please describe how you tested your changes,
